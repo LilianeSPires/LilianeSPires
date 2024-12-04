@@ -18,6 +18,6 @@ O resultado foi um vídeo comovente para incentivar a adoção de cães idosos.
 https://github.com/user-attachments/assets/0aaa0a86-0cb7-43af-a4b5-b42e2126ccb8
 
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 Muito interessante criar a partir de um roteiro simples de poucas palavras um vídeo com narração de voz criada por IA, um bom começo para quem nunca tinha sequer pesquisado sobre IA.
 
